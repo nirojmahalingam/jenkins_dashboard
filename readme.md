@@ -9,7 +9,9 @@ Modify the following Config File /config/app.php Line 6. Add your Jenkins URL.
 To use Jenkins Rest API, please let the User "Anonym" read the general, job and view information. 
 
 ### Author
-[Robin Bürkli](https://github.com/robinbuerkli) &&  [Niroj Mahalingam](https://github.com/nirojmahalingam)
+[Niroj Mahalingam](https://github.com/niroj93)
+
+[Robin Bürkli](https://github.com/robinbuerkli)
 
 ### License
 The software licensed under the [MIT license](http://opensource.org/licenses/MIT)
